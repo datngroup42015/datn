@@ -2153,15 +2153,15 @@ Extension point: Click approve button
 <XPD:OBJ name="OwnedViews[52]" type="UMLUseCaseView" guid="/FbV3XLm6kKghNQoJGyTbQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">548</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">668</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">268</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">596</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">672</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">158</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">33</XPD:ATTR>
 <XPD:REF name="Model">FLAs7IuetEWt5Q1LSUx5EAAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="xKYqKIruWkmbi9v9v1xinQAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="LyzC4ule2061rAYCCBWA/QAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Document Review and Approval</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Document Review</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="whBLSfyDEUe4HTVay84f4AAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -3292,7 +3292,7 @@ Extension point: Click download button
 <XPD:OBJ name="OwnedViews[77]" type="UMLIncludeView" guid="xRviKxoyL0KCe1/cb95DowAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">734,640;704,668</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">731,640;693,672</XPD:ATTR>
 <XPD:REF name="Model">9FG55+B5CUCV5vYbkM3N+gAA</XPD:REF>
 <XPD:REF name="Head">/FbV3XLm6kKghNQoJGyTbQAA</XPD:REF>
 <XPD:REF name="Tail">z0ANlZxVsUi4n5ERhe+zHQAA</XPD:REF>
@@ -4327,7 +4327,7 @@ Extension point: Click download button
 <XPD:REF name="Includes[0]">9FG55+B5CUCV5vYbkM3N+gAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[69]" type="UMLUseCase" guid="FLAs7IuetEWt5Q1LSUx5EAAA">
-<XPD:ATTR name="Name" type="string">Document Review and Approval</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">Document Review</XPD:ATTR>
 <XPD:REF name="Namespace">E2P97QEHQUWplPcTnkJGdgAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">/FbV3XLm6kKghNQoJGyTbQAA</XPD:REF>
