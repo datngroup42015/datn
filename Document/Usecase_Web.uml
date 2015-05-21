@@ -216,7 +216,7 @@
 <XPD:OBJ name="OwnedViews[7]" type="UMLUseCaseView" guid="G0XaiwUtbEqFZdsNKHqqVQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">492</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">488</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">116</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">147</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
@@ -282,15 +282,15 @@
 <XPD:OBJ name="OwnedViews[9]" type="UMLUseCaseView" guid="8XEDlDVDwUabzvNGP13biAAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">684</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">156</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">149</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">600</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">176</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">247</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
 <XPD:REF name="Model">zMSqsXw9QU2Zg9eSbwyDkgAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="8orScIvIPEyQhmRrzQ6aPQAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="QiyHlJn/fEGqYt4AoDHm+AAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Inactive Account</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Activate/Deactivate Account</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="oOq+4jjLLkiBNGKUccCxBgAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -615,7 +615,7 @@
 <XPD:OBJ name="OwnedViews[16]" type="UMLGeneralizationView" guid="2ZQb/5JxrkimX6SoTPu9zQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">336,110;492,129</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">336,111;488,129</XPD:ATTR>
 <XPD:REF name="Model">KDowS4lBwESo/BLJVKcYhAAA</XPD:REF>
 <XPD:REF name="Head">G0XaiwUtbEqFZdsNKHqqVQAA</XPD:REF>
 <XPD:REF name="Tail">StPNWj3qBUuJ3hJYXXBG7QAA</XPD:REF>
@@ -641,7 +641,7 @@
 <XPD:OBJ name="OwnedViews[17]" type="UMLGeneralizationView" guid="k23g4c7FMkiBeTSco+4LmgAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">453,84;519,116</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">452,84;517,116</XPD:ATTR>
 <XPD:REF name="Model">jofGN5bAoUGJ0OvkXwdiUwAA</XPD:REF>
 <XPD:REF name="Head">G0XaiwUtbEqFZdsNKHqqVQAA</XPD:REF>
 <XPD:REF name="Tail">osPichtcJ0693A4m6rfCHgAA</XPD:REF>
@@ -667,7 +667,7 @@
 <XPD:OBJ name="OwnedViews[18]" type="UMLGeneralizationView" guid="mFuaTP27nEC5F91B0mUwAgAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">620,84;587,116</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">619,84;585,116</XPD:ATTR>
 <XPD:REF name="Model">4rqJ2dA5CUWGseBBL7RePAAA</XPD:REF>
 <XPD:REF name="Head">G0XaiwUtbEqFZdsNKHqqVQAA</XPD:REF>
 <XPD:REF name="Tail">a0QEwrnKek6VXLuz4xPOmgAA</XPD:REF>
@@ -693,7 +693,7 @@
 <XPD:OBJ name="OwnedViews[19]" type="UMLGeneralizationView" guid="ANVQBhCAG0KrC/Tnk8MOHQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">708,99;638,118</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">708,98;634,118</XPD:ATTR>
 <XPD:REF name="Model">YSF/l88K8kKXDZJW5Q2gtgAA</XPD:REF>
 <XPD:REF name="Head">G0XaiwUtbEqFZdsNKHqqVQAA</XPD:REF>
 <XPD:REF name="Tail">WUebyq/bFkq6fjsLWCecRgAA</XPD:REF>
@@ -719,7 +719,7 @@
 <XPD:OBJ name="OwnedViews[20]" type="UMLGeneralizationView" guid="ejpayuWylEyFySTDmE8ABQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">684,163;638,153</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">664,176;621,160</XPD:ATTR>
 <XPD:REF name="Model">ep+2UA2Ikke96Af/tkPQzgAA</XPD:REF>
 <XPD:REF name="Head">G0XaiwUtbEqFZdsNKHqqVQAA</XPD:REF>
 <XPD:REF name="Tail">8XEDlDVDwUabzvNGP13biAAA</XPD:REF>
@@ -745,7 +745,7 @@
 <XPD:OBJ name="OwnedViews[21]" type="UMLGeneralizationView" guid="1mIqoSmKqkGPWpawHfNrtwAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">453,154;492,148</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">453,154;488,149</XPD:ATTR>
 <XPD:REF name="Model">fdTPYB2r5UK9XAHjHGS37wAA</XPD:REF>
 <XPD:REF name="Head">G0XaiwUtbEqFZdsNKHqqVQAA</XPD:REF>
 <XPD:REF name="Tail">UvWBACWv0EGZkMqqXWotcQAA</XPD:REF>
@@ -771,7 +771,7 @@
 <XPD:OBJ name="OwnedViews[22]" type="UMLAssociationView" guid="hceAc/JQAkG/TfiJ5FiaFAAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">638,130;864,107</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">634,130;864,107</XPD:ATTR>
 <XPD:REF name="Model">6vPkzJszcUGsZiF6kn2x8AAA</XPD:REF>
 <XPD:REF name="Head">fDVAWI/2hEWLN3wYfrTh8AAA</XPD:REF>
 <XPD:REF name="Tail">G0XaiwUtbEqFZdsNKHqqVQAA</XPD:REF>
@@ -939,7 +939,7 @@
 <XPD:OBJ name="OwnedViews[24]" type="UMLAssociationView" guid="WibDCI08HkyfL6fRTPn+uQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">536,205;816,224;879,141</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">536,207;840,244;890,141</XPD:ATTR>
 <XPD:REF name="Model">0yB4UTKl8k2jO0z7L4U/5gAA</XPD:REF>
 <XPD:REF name="Head">fDVAWI/2hEWLN3wYfrTh8AAA</XPD:REF>
 <XPD:REF name="Tail">x/UGuftUrkma1OiEKqMuIAAA</XPD:REF>
@@ -3229,7 +3229,7 @@ Extension point: Click closebutton
 <XPD:OBJ name="OwnedViews[80]" type="UMLGeneralizationView" guid="9pnT2SQZ50mubk5dulr1eQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">532,52;557,116</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">531,52;553,116</XPD:ATTR>
 <XPD:REF name="Model">W2GVUf6FI0WVqs3g/o4yXgAA</XPD:REF>
 <XPD:REF name="Head">G0XaiwUtbEqFZdsNKHqqVQAA</XPD:REF>
 <XPD:REF name="Tail">LuA5zT6B00KJDsgoccSmYQAA</XPD:REF>
@@ -3471,7 +3471,7 @@ Extension point: Click closebutton
 <XPD:REF name="Extenders[0]">K6txN/P8yUq/XWqz6iD/OwAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[14]" type="UMLUseCase" guid="zMSqsXw9QU2Zg9eSbwyDkgAA">
-<XPD:ATTR name="Name" type="string">Inactive Account</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">Activate/Deactivate Account</XPD:ATTR>
 <XPD:REF name="Namespace">E2P97QEHQUWplPcTnkJGdgAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">8XEDlDVDwUabzvNGP13biAAA</XPD:REF>
@@ -4886,8 +4886,8 @@ Extension point: Click closebutton
 <XPD:REF name="Participant">CTHUchauck6tCfmFoHhIsgAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">kd0yDaOcFEuevyZUvRz+TgAA</XPD:REF>
-<XPD:REF name="Views[1]">yUj2MVgxuEycrWwD9guuigAA</XPD:REF>
-<XPD:REF name="Views[2]">oa+z8KnzZ02KfJhDp9FYjgAA</XPD:REF>
+<XPD:REF name="Views[1]">oa+z8KnzZ02KfJhDp9FYjgAA</XPD:REF>
+<XPD:REF name="Views[2]">yUj2MVgxuEycrWwD9guuigAA</XPD:REF>
 <XPD:REF name="Views[3]">JrjrVv6/K0ukLzcB6BqVWQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Connections[1]" type="UMLAssociationEnd" guid="0FYVNA/VnUq0xdTi0y+v6wAA">
@@ -4895,8 +4895,8 @@ Extension point: Click closebutton
 <XPD:REF name="Participant">rqjRqoPQSUyIpyj/QqNgbAAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">WxE8WW3vOUeBZK/RHRCH/wAA</XPD:REF>
-<XPD:REF name="Views[1]">BWYSDaI3JU6SN/9UKWzGNQAA</XPD:REF>
-<XPD:REF name="Views[2]">3EnPVgPhEUGvsOXVblf34gAA</XPD:REF>
+<XPD:REF name="Views[1]">3EnPVgPhEUGvsOXVblf34gAA</XPD:REF>
+<XPD:REF name="Views[2]">BWYSDaI3JU6SN/9UKWzGNQAA</XPD:REF>
 <XPD:REF name="Views[3]">LtR5DLjuJk+43AEVOb3wAQAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
@@ -4913,8 +4913,8 @@ Extension point: Click closebutton
 <XPD:REF name="Participant">CTHUchauck6tCfmFoHhIsgAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">2H6Wsa+nBke5paYKQR6lAgAA</XPD:REF>
-<XPD:REF name="Views[1]">+EPhJAF2PE+Dau0e0No6TQAA</XPD:REF>
-<XPD:REF name="Views[2]">SrfziMIFc0mM8UASRjJ85wAA</XPD:REF>
+<XPD:REF name="Views[1]">SrfziMIFc0mM8UASRjJ85wAA</XPD:REF>
+<XPD:REF name="Views[2]">+EPhJAF2PE+Dau0e0No6TQAA</XPD:REF>
 <XPD:REF name="Views[3]">msvXJ21oPUiLKMkwsSuEHgAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Connections[1]" type="UMLAssociationEnd" guid="egGkFl7Z7EC+bhflBtPdDwAA">
@@ -4922,8 +4922,8 @@ Extension point: Click closebutton
 <XPD:REF name="Participant">XJi7suEecUCX+XaI0PkHZAAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">RCM9mFKAqUKdQURAkuyNhAAA</XPD:REF>
-<XPD:REF name="Views[1]">0rvcYxoJskeRMkz0jVouhAAA</XPD:REF>
-<XPD:REF name="Views[2]">6H0f+KS7+ke0bo61Ub5bawAA</XPD:REF>
+<XPD:REF name="Views[1]">6H0f+KS7+ke0bo61Ub5bawAA</XPD:REF>
+<XPD:REF name="Views[2]">0rvcYxoJskeRMkz0jVouhAAA</XPD:REF>
 <XPD:REF name="Views[3]">xJrrc6HgTUaRZ/9R9N1GrwAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
