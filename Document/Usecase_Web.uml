@@ -3072,15 +3072,15 @@
 <XPD:OBJ name="OwnedViews[57]" type="UMLUseCaseView" guid="9Qw33B85r0WFiQpPK6LzEAAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">696</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">240</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">80</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">676</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">236</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">114</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
 <XPD:REF name="Model">Ffrvfentf0W8JBEYIVpWIwAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="0lZEpzuUZkKCJ7yre6iyrgAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="TDaFd0wjoUWaBaBiQ2HIBQAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Edit Skill</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Manage Skill</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="SUli1H0i1Eu41IOV9qM9OgAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -3288,7 +3288,7 @@
 <XPD:OBJ name="OwnedViews[62]" type="UMLAssociationView" guid="wrpkmirwZE6eBR4dQ3c0QAAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">864,182;770,240</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">864,180;769,236</XPD:ATTR>
 <XPD:REF name="Model">7CI5ElaOEUi0LmcYxf/rowAA</XPD:REF>
 <XPD:REF name="Head">9Qw33B85r0WFiQpPK6LzEAAA</XPD:REF>
 <XPD:REF name="Tail">fDVAWI/2hEWLN3wYfrTh8AAA</XPD:REF>
@@ -5563,7 +5563,7 @@
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[132]" type="UMLUseCase" guid="Ffrvfentf0W8JBEYIVpWIwAA">
-<XPD:ATTR name="Name" type="string">Edit Skill</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">Manage Skill</XPD:ATTR>
 <XPD:REF name="Namespace">E2P97QEHQUWplPcTnkJGdgAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">9Qw33B85r0WFiQpPK6LzEAAA</XPD:REF>
