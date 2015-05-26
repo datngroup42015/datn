@@ -8,12 +8,8 @@
 
 <link href="css/bootstrap.min.css" rel="stylesheet" />
 <link href="css/bootstrap.css" rel="stylesheet" />
-<link href="css/modifier.css" rel="stylesheet" />
+<link href="css/login-form.css" rel="stylesheet" />
 
-<script src="js/jquery.js"></script>
-<script src="js/jquery.min.js"></script>
-<script src="js/bootstrap.min.js"></script>
-<script src="js/bootstrap.js"></script>
 <title>Login</title>
 </head>
 <body>
@@ -22,7 +18,7 @@
 	<div class="row">
 		<div class="col-md-4"></div>
 
-		<div class="col-md-4" style="padding-top: 50px;">
+		<div class="col-md-4" style="padding-top: 120px;">
 			<div class="login-form form-group-lg">
 				<form method="post" action="#" role="login">
 					<img src="http://i.imgur.com/RcmcLv4.png" class="img-responsive" alt="" /> 
