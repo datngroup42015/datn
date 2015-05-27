@@ -1,19 +1,16 @@
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1"%>
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE html>
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <link href="css/bootstrap.min.css" rel="stylesheet" />
-<link href="css/bootstrap.css" rel="stylesheet" />
 <link href="css/modifier.css" rel="stylesheet" />
 
-<script src="js/jquery.js"></script>
 <script src="js/jquery.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
-<script src="js/bootstrap.js"></script>
 </head>
 <body>
 <div class="navbar navbar-inverse navbar-fixed-top"	>
@@ -32,8 +29,8 @@
 		<div class="collapse navbar-collapse"
 			id="bs-example-navbar-collapse-1">
 			<ul class="nav navbar-nav navbar-left">
-				<li class="dropdown"><a href="#" class="dropdown-toggle"
-					data-toggle="dropdown">Dashboards <b class="caret"></b></a>
+				<li class="dropdown">
+					<a href="#" class="dropdown-toggle" data-toggle="dropdown">Dashboards <b class="caret"></b></a>
 					<ul class="dropdown-menu">
 						<li><a href="">View System Dashboard</a></li>
 						<li><a href="">Manage Dashboards</a></li>
@@ -42,7 +39,7 @@
 					data-toggle="dropdown">Projects <b class="caret"></b></a>
 					<ul class="dropdown-menu">
 						<li class="dropdown-header">CURRENT PROJECT</li>
-						<li><a href="">Project 1</a></li>
+						<li><a href="#">Project 1</a></li>
 						<li><a href="">Project 2</a></li>
 						<li class="divider"></li>
 						<li><a href="">View All Projects</a></li>
