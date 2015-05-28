@@ -1,2 +1,10 @@
 @CHARSET "ISO-8859-1";
 
+.custom-header-role{
+    border-bottom: solid;
+    border-width: medium;
+    border-color: cornflowerblue;
+    background-color: rgb(56, 76, 72);
+	width: 90px; 
+	text-align: center;
+}
