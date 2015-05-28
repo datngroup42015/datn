@@ -1,5 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=utf-8"
     pageEncoding="utf-8"%>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <!DOCTYPE html>
 <html>
 <head>
@@ -25,6 +26,10 @@
 					<input type="text" name="txtUsername" class="form-control" placeholder="Username" required/> 
 						
 					<input type="password" name="txtPassword" class="form-control" placeholder="Password" required/>
+					
+					<c:if test="${not empty requestScope.flag}">
+						<span style="color: red">${requestScope.flag }</span>
+					</c:if>
 					
 					<button type="submit" name="go"
 						class="btn btn-primary btn-block btn-lg">Sign in</button>

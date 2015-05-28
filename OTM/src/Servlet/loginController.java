@@ -83,7 +83,10 @@ public class loginController extends HttpServlet {
 				}				
 				HttpSession session = request.getSession();
 				session.setAttribute("USER", emp);
+			} else {
+				request.setAttribute("flag","Username or Password is incorrect!!!");
 			}
+			
 			RequestDispatcher rd = request.getRequestDispatcher(path);
 			rd.forward(request, response);
 		} catch (Exception e) {
