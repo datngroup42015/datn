@@ -3477,7 +3477,7 @@
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="d1m/PURJ3U6VuIUcTOYc1wAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="uKtv6N4P00Cdwqp9Ud5ECwAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Manage Titles</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Manage Roles</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="v4NAEUSWxUy/iweTe/mXagAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -3594,7 +3594,7 @@
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="4YVR4yvIWkSCoFiLbz9dGgAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="DFfQp56Thk+ZF/MzsRAPhgAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Add Title</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Add Role</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="PNUkh0tba0Gb76knfU5GJAAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -3627,7 +3627,7 @@
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="qIy8V5qCVEGuA3lA3+AZ/QAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="Rz2n2En9o0KiFsurj1IqugAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Update Title</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Update Role</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="96A5hUSYjkm0HYG0DhSMwAAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -4419,7 +4419,7 @@
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="k1+OBXCgrUS1YWscXsOBJgAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="Hy7HUydCr0SNuL2C3s+5LgAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Search Titles</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Search Role</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="9QgrALpNO0KaHqAJINjSkgAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -4620,7 +4620,7 @@
 <XPD:OBJ name="OwnedViews[98]" type="UMLAssociationView" guid="8+qw8xBGzk2TGs7JsrMIcgAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">96,798;464,832</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">96,797;464,831</XPD:ATTR>
 <XPD:REF name="Model">BH40Ckj4rU2ARyJWWBAfagAA</XPD:REF>
 <XPD:REF name="Head">1ero07RXaUGvaUhbeNNWTgAA</XPD:REF>
 <XPD:REF name="Tail">n09JmJZn90unBhF5vosJOwAA</XPD:REF>
@@ -7154,7 +7154,7 @@
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[155]" type="UMLUseCase" guid="SR/Zen/J0kGXFNVYX4NhPAAA">
-<XPD:ATTR name="Name" type="string">Manage Titles</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">Manage Roles</XPD:ATTR>
 <XPD:REF name="Namespace">E2P97QEHQUWplPcTnkJGdgAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">hgpl1badXUaK4uEOZg+PhgAA</XPD:REF>
@@ -7197,7 +7197,7 @@
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[157]" type="UMLUseCase" guid="b2ZAkzHdJE23zMO3p1NB1AAA">
-<XPD:ATTR name="Name" type="string">Add Title</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">Add Role</XPD:ATTR>
 <XPD:REF name="Namespace">E2P97QEHQUWplPcTnkJGdgAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">GG9RoNgsDEWuADlGkHWT+wAA</XPD:REF>
@@ -7208,7 +7208,7 @@
 <XPD:REF name="Generalizations[0]">DvitezzvlkCrJbF5a96JrwAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[158]" type="UMLUseCase" guid="bVirshgbZUiAQsoMTfttEgAA">
-<XPD:ATTR name="Name" type="string">Update Title</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">Update Role</XPD:ATTR>
 <XPD:REF name="Namespace">E2P97QEHQUWplPcTnkJGdgAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">AhViTb+5e0uCGVfnbDsWlgAA</XPD:REF>
@@ -7589,7 +7589,7 @@
 <XPD:REF name="Views[3]">0yKdxjMOSEef/Y4QsrIJvgAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[195]" type="UMLUseCase" guid="Zkr5czEp+kSTI0bT0NCrzQAA">
-<XPD:ATTR name="Name" type="string">Search Titles</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">Search Role</XPD:ATTR>
 <XPD:REF name="Namespace">E2P97QEHQUWplPcTnkJGdgAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">qD8pYuPbrUy6eNI2Y4xY7wAA</XPD:REF>
