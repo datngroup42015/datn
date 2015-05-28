@@ -4326,7 +4326,7 @@
 <XPD:OBJ name="OwnedViews[90]" type="UMLAssociationView" guid="8+qw8xBGzk2TGs7JsrMIcgAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">96,797;464,831</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">96,798;464,832</XPD:ATTR>
 <XPD:REF name="Model">BH40Ckj4rU2ARyJWWBAfagAA</XPD:REF>
 <XPD:REF name="Head">1ero07RXaUGvaUhbeNNWTgAA</XPD:REF>
 <XPD:REF name="Tail">n09JmJZn90unBhF5vosJOwAA</XPD:REF>
@@ -4477,7 +4477,7 @@
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="4u0Alu/I1UiGsksWumBS8QAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="mwGUZEeW40mrzdMKhc2PwQAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Manage Employee Assessments Period</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Manage Employee Assessment Periods</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="cIiug2Ms9UqZ72RA/q0ftAAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -4588,13 +4588,13 @@
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="Left" type="integer">632</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">600</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">169</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">224</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
 <XPD:REF name="Model">KUfq4j81qEmAbEf8TvW6AgAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="bgPC/m/bXEyIM63HYcxSbwAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="tM1ojHmvi0eTmF4e+5mNHgAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Create Assessment</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Create Assessment Period</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="Xfw466ySLkqWrJgO8YXUwAAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -4619,7 +4619,7 @@
 <XPD:OBJ name="OwnedViews[96]" type="UMLGeneralizationView" guid="NIGIR+MvQ0qrzAq3940XIgAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">746,600;892,492</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">769,600;896,492</XPD:ATTR>
 <XPD:REF name="Model">dsT42H3Gak65IB9npuFD4AAA</XPD:REF>
 <XPD:REF name="Head">5Xgi6tPD70SN7ips33F5UgAA</XPD:REF>
 <XPD:REF name="Tail">9WMCW2LxhE+m5a7ELvEilAAA</XPD:REF>
@@ -4645,15 +4645,15 @@
 <XPD:OBJ name="OwnedViews[97]" type="UMLUseCaseView" guid="StfkXTQ1ukmfLdNU0H6UVQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">816</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">608</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">179</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">852</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">624</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">234</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
 <XPD:REF name="Model">6srNTf0XKkKhZsu8Txu7OgAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="lItYwXRg7EeybYincUgVMQAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="xdIV/Nnd2kWBok3CJoLFnQAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Search Assessments</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Search Assessment Periods</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="Ju0LX3s8x0KcAZt3FefPNQAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -4678,7 +4678,7 @@
 <XPD:OBJ name="OwnedViews[98]" type="UMLGeneralizationView" guid="5uF23eUdx06G3BKQBmNHMAAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">907,608;920,492</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">942,624;872,564;910,492</XPD:ATTR>
 <XPD:REF name="Model">VTaISTf9Z0+zbmOtM4fN5QAA</XPD:REF>
 <XPD:REF name="Head">5Xgi6tPD70SN7ips33F5UgAA</XPD:REF>
 <XPD:REF name="Tail">StfkXTQ1ukmfLdNU0H6UVQAA</XPD:REF>
@@ -4704,15 +4704,15 @@
 <XPD:OBJ name="OwnedViews[99]" type="UMLUseCaseView" guid="VlZAV7eLqEm33PDWUxu+8gAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">936</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">540</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">145</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">892</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">536</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">200</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">49</XPD:ATTR>
 <XPD:REF name="Model">svYeTESv2kOmKSd4P0iolwAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="2IHcHO+8UUWK5ZACwb2SpQAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="KTCKNLpjWEmK44uqRwBpoAAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Edit Assessment</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Edit Assessment Period</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="9dpPA2U8Ok+lOuSd5fGTrgAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -4737,7 +4737,7 @@
 <XPD:OBJ name="OwnedViews[100]" type="UMLGeneralizationView" guid="xVH4WqcHakujrC4iyNyD1gAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">987,540;942,492</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">973,536;939,492</XPD:ATTR>
 <XPD:REF name="Model">tZhaxscmRUGZuAQUkJWRagAA</XPD:REF>
 <XPD:REF name="Head">5Xgi6tPD70SN7ips33F5UgAA</XPD:REF>
 <XPD:REF name="Tail">VlZAV7eLqEm33PDWUxu+8gAA</XPD:REF>
@@ -7442,7 +7442,7 @@
 <XPD:REF name="Views[3]">EKjp9jj/skGVQrOEKbsglwAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[197]" type="UMLUseCase" guid="L4CEYV/Ie0qo3lyOR2q7ZQAA">
-<XPD:ATTR name="Name" type="string">Manage Employee Assessments Period</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">Manage Employee Assessment Periods</XPD:ATTR>
 <XPD:REF name="Namespace">E2P97QEHQUWplPcTnkJGdgAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">5Xgi6tPD70SN7ips33F5UgAA</XPD:REF>
@@ -7484,7 +7484,7 @@
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[199]" type="UMLUseCase" guid="KUfq4j81qEmAbEf8TvW6AgAA">
-<XPD:ATTR name="Name" type="string">Create Assessment</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">Create Assessment Period</XPD:ATTR>
 <XPD:REF name="Namespace">E2P97QEHQUWplPcTnkJGdgAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">9WMCW2LxhE+m5a7ELvEilAAA</XPD:REF>
@@ -7505,7 +7505,7 @@
 <XPD:REF name="Views[3]">pTQ40jj8206bbDeHtuLQpAAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[201]" type="UMLUseCase" guid="6srNTf0XKkKhZsu8Txu7OgAA">
-<XPD:ATTR name="Name" type="string">Search Assessments</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">Search Assessment Periods</XPD:ATTR>
 <XPD:REF name="Namespace">E2P97QEHQUWplPcTnkJGdgAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">StfkXTQ1ukmfLdNU0H6UVQAA</XPD:REF>
@@ -7526,7 +7526,7 @@
 <XPD:REF name="Views[3]">DryvMaBsw0aO+PcgzgvzBwAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[203]" type="UMLUseCase" guid="svYeTESv2kOmKSd4P0iolwAA">
-<XPD:ATTR name="Name" type="string">Edit Assessment</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">Edit Assessment Period</XPD:ATTR>
 <XPD:REF name="Namespace">E2P97QEHQUWplPcTnkJGdgAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">VlZAV7eLqEm33PDWUxu+8gAA</XPD:REF>
@@ -7570,8 +7570,8 @@
 <XPD:REF name="Participant">CTHUchauck6tCfmFoHhIsgAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">CYM3NqQZD0+EJaWn9c9hIQAA</XPD:REF>
-<XPD:REF name="Views[1]">cGrzzTjSGkGz3FAy1OU2gwAA</XPD:REF>
-<XPD:REF name="Views[2]">NK8COjH+0UK5sk3zRGgFSQAA</XPD:REF>
+<XPD:REF name="Views[1]">NK8COjH+0UK5sk3zRGgFSQAA</XPD:REF>
+<XPD:REF name="Views[2]">cGrzzTjSGkGz3FAy1OU2gwAA</XPD:REF>
 <XPD:REF name="Views[3]">Wt5u8/HSykG/XgLOhcFAwQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Connections[1]" type="UMLAssociationEnd" guid="IPrN8MEdvE2FqVU/3mmpuAAA">
@@ -7579,8 +7579,8 @@
 <XPD:REF name="Participant">5acpndOR00Kkifua9AssZgAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">hYj9OlWBFUKJyyFoncqbvQAA</XPD:REF>
-<XPD:REF name="Views[1]">nRKODcyJE0mtJvn54SQnJgAA</XPD:REF>
-<XPD:REF name="Views[2]">rIvCRzM+R0qiIN2inJ+4wQAA</XPD:REF>
+<XPD:REF name="Views[1]">rIvCRzM+R0qiIN2inJ+4wQAA</XPD:REF>
+<XPD:REF name="Views[2]">nRKODcyJE0mtJvn54SQnJgAA</XPD:REF>
 <XPD:REF name="Views[3]">4kA+vIotkkG3lJ2dhesPIAAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
