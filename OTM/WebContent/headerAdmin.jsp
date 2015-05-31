@@ -27,7 +27,7 @@
 <script src="js/dataTables.bootstrap.min.js"></script>
 
 </head>
-<body style='padding-top: 55px'>
+<body style='padding-top: 100px'>
 	<!-- start header -->
 	<header><nav class="navbar navbar-default navbar-fixed-top">
 		<div class="container">
@@ -69,4 +69,4 @@
 		<!-- /.navbar-top-links -->
 	</nav></header>
 	<!-- end header -->
-		
+	<div class="container" style="min-height: 450px;">	

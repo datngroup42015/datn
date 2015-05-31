@@ -1,5 +1,4 @@
 <jsp:include page="headerCommon.jsp"/>
-<body style='padding-top: 55px'>
 	<header><nav class="navbar navbar-inverse navbar-fixed-top"	>
 		<div class="container">
 			<div class="navbar-header">
@@ -69,4 +68,5 @@
 			</ul>
 		</div>
 	</nav></header>
+	<div class="container panel panel-body" style="min-height: 450px;background-color: white;">
 	

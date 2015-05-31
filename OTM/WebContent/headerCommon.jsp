@@ -15,3 +15,4 @@
 <script src="js/jquery.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
 </head>
+<body style='padding-top: 100px;background-color: rgb(196, 197, 197);'>

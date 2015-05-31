@@ -1,3 +1,4 @@
+</div>
 <!-- start footer -->
 <footer>
 	<div class="row">
