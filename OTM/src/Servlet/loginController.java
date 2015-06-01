@@ -15,6 +15,7 @@ import javax.servlet.http.HttpSession;
 import javax.ws.rs.core.MultivaluedMap;
 
 import DTO.EmployeeDTO;
+import Helpers.Common;
 
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
@@ -53,6 +54,7 @@ public class loginController extends HttpServlet {
 //		PrintWriter out = response.getWriter();
 		
 		try {
+			Common common = new Common();
 			String username = request.getParameter("txtUsername");
 			String password = request.getParameter("txtPassword");
 			String url = "http://localhost:8080/OTMWebApp/rest/login";
@@ -73,13 +75,13 @@ public class loginController extends HttpServlet {
 				Gson gson = new Gson();
 				EmployeeDTO emp = gson.fromJson(res, objType);
 				if(emp.getRoleId() == 1) {
-					path = "dashboardManagerPage.jsp";
+					path = common.ADMIN_PAGE;
 				} else if(emp.getRoleId() == 2) {
-					path = "footer.jsp";
+					path = common.DIRECTOR_PAGE;
 				} else if(emp.getRoleId() == 3) {
-					path = "dashboardManagerPage.jsp";
+					path = common.MANAGER_PAGE;
 				} else {
-					path = "dashboardStaffPage.jsp";
+					path = common.STAFF_PAGE;
 				}				
 				HttpSession session = request.getSession();
 				session.setAttribute("USER", emp);

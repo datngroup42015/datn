@@ -9,7 +9,7 @@ $(function () {
 
 <title>New Task</title>
 
-<h1 style="text-align:center">Create New Task</h1>
+<h2 class="page-header">&nbsp;&nbsp;&nbsp;&nbsp;Create New Task</h2>
 
 <form class="form-horizontal" method="POST" action="Controller" name="btAction">
 
@@ -76,7 +76,7 @@ $(function () {
     </div>
    </div>
    
-   <div class="form-group" style="text-align:center">
+   <div class="form-group" >
    	 <label class="col-sm-4 control-label"></label>
    	 <div class="col-sm-5">
    		<button type="button" class="btn btn-default btn-lg">Create</button>

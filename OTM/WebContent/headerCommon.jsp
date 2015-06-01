@@ -16,5 +16,7 @@
    
 <script src="js/jquery.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
-<script src="js/jquery.dataTables.min.js"></script><script src="js/bootstrap-datetimepicker.js"></script></head>
+<script src="js/jquery.dataTables.min.js"></script>
+<script src="js/bootstrap-datetimepicker.js"></script>
+</head>
 <body style='padding-top: 100px;background-color: rgb(196, 197, 197);'>
