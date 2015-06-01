@@ -3,13 +3,10 @@
 
 <h2 class="page-header" style="color: grey;">&nbsp;&nbsp;&nbsp;&nbsp;Project
 	Detail</h2>
-
 	<div class="col-md-5">
-	
-		<div class="tab-content" >
 			<br>
 			
-			<table id="dataTable1" class="display dataTable" margin = "0 px">
+			<table id="dataTable1" class="display dataTable" style = "margin: 0 px">
 				<tr>
 					<td>Project Name:</td>
 					<td>ABC</td>
@@ -32,30 +29,33 @@
 				</tr>
 				<tr>
 					<td>Skill:</td>
-					<td class="dropdown"><select>
-							<option value="" disabled="disabled" selected="selected">Please
-								select a skill</option>
-							<option value="1">C#</option>
-							<option value="2">Java</option>
-							<option value="3">C</option>
-							<option value="4">C++</option>
-					</select></td>
+					<td>Java</td>
 				</tr>
 				<tr>
 					<td>Project Assignee:</td>
-					<td><input type="text" name="txtAssignee" /></td>
+					<td>ABC</td>
 				</tr>
-				<tr></tr>
+				<tr>
+				<td>Description: </td>
+				<td><input type = "text" name="txtDescription" value="aaaa" disable/></td>
+				</tr>
 				<tr></tr>
 				<tr>
-					<td><input type="submit" name="btnProjectDetailSave"
-						value="Save" /></td>
-					<td><input type="submit" name="btnProjectDetailCancel"
-						value="Cancel" /></td>
+				<td></td>
+					<td><input type="submit" name="btnProjectDetailEdit"
+						value="Edit" /></td>
+				</tr>
+				<tr></tr>
+				<tr>
+				<td>Comment: </td>
+				<td><input type = "text" name ="txtComment"/></td>
+				</tr>
+				<tr>
+				<td></td>
+				<td style ="margin-right: 0px"><input type = "submit" name ="btnComment" value ="Comment"/></td>
+				<td><input type = "submit" name = "btnCancel" value = "Cancel"/></td>
 				</tr>
 			</table>
-		
-		</div>
 </div>
 
 	<script>
