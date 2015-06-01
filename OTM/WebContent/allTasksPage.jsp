@@ -1,7 +1,7 @@
 <jsp:include page="headerManager.jsp" />
 <!-- Start Page Content -->
 <title>Tasks in Project</title>
-<h2 class="page-header">&nbsp;&nbsp;&nbsp;&nbsp;Tasks in Project</h2>
+<h2 class="page-header" style="color: grey;">&nbsp;&nbsp;&nbsp;&nbsp;Tasks in Project</h2>
 <div class="col-md-12">	
 	<ul class="nav nav-tabs">
   		<li role="presentation" class="active"><a data-toggle="tab" href="#myTask">My Tasks</a></li>
@@ -14,16 +14,16 @@
 			    <thead>
 			      <tr>
 			        <th>Deadline</th>
+			        <th>Task</th>
 			        <th>Creator</th>
 			        <th>Assignee</th>
 			        <th>Created Date</th>
-			        <th>Task</th>
 			      </tr>
 			    </thead>
 			    <tbody>
 			      <tr>
 			        <td>adsda</td>
-			        <td>Doedee</td>
+			        <td><a href="taskDetailPage.jsp" style="color: #333;">Doedee</a></td>
 			        <td>john@example.com</td>
 			        <td>Doedee</td>
 			        <td>john@example.com</td>
@@ -50,10 +50,10 @@
 			    <thead>
 			      <tr>
 			        <th>Deadline</th>
+			        <th>Task</th>
 			        <th>Creator</th>
 			        <th>Assignee</th>
 			        <th>Created Date</th>
-			        <th>Task</th>
 			      </tr>
 			    </thead>
 			    <tbody>
