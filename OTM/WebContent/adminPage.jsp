@@ -3,30 +3,30 @@
 
 <title>Admin Page</title>
 
-<center>
-	<div>
-		<table>
-			<tr>
-				<td><h1>List Account</h1></td>
-				<td></td>
-				<td></td>
-			</tr>
-			<tr>
-				<td><input type="text" name="txtSearch" /></td>
-				<td class="dropdown"><select>
+<div class="contrain">
+
+<h2 class="page-header" style="color: red;">&nbsp;&nbsp;&nbsp;&nbsp;List Account</h2>
+<br>
+<div class ="col-lg-12">
+<div class ="col-lg-2"></div>
+<div class ="col-lg-8">
+		<div class ="col-lg-8">
+			<input type="text" name="txtSearch" />
+			<select class="dropdown">
 						<option value="" disabled="disabled" selected="selected">Please
 							select a name</option>
-						<option value="1">Username</option>
+						<option value="1">User Name</option>
 						<option value="2">Role</option>
 						<option value="3">Skill</option>
 						<option value="4">Status</option>
-				</select></td>
-				<td><input type="submit" name="btnSearch" value="Search" /></td>
-			</tr>
-			<tr>
-				<table border="0.5">
+				</select>
+			<input type="submit" name="btnSearch" value="Search" />
+		</div>
+			<br>
+			<div class ="col-lg-6" style = "margin-top: 10px">
+				<table class="table table-bordered">
 					<tr>
-						<td>Username</td>
+						<td>Jonh</td>
 						<td><input type="submit" name="btnEditAccount" value="Edit" /></td>
 						<td><input type="text" name="txtStatus" value="Activate" /></td>
 					</tr>
@@ -41,6 +41,7 @@
 						<td><input type="text" name="txtStatus" value="Activate" /></td>
 					</tr>
 				</table>
+				</div>
 			</tr>
 			<tr>
 				<td><input type="submit" name="btnEditAccount"
@@ -48,6 +49,10 @@
 			</tr>
 		</table>
 	</div>
-</center>
+</div>
+<div class="col-lg-2"></div>
+</div>
+	
+
 <!-- End Page Content -->
 <jsp:include page="footer.jsp" />
