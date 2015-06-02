@@ -79,7 +79,7 @@ $(function () {
    <div class="form-group" >
    	 <label class="col-sm-4 control-label"></label>
    	 <div class="col-sm-5">
-   		<button type="button" class="btn btn-default btn-lg">Create</button>
+   		<button type="button" class="btn btn-outline btn-primary btn-lg">Create</button>
   		<button type="button" class="btn btn-default btn-lg">Cancel</button>
 	 </div>
 	</div>
