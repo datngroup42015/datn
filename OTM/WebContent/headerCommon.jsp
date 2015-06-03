@@ -9,7 +9,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <link href="css/bootstrap.min.css" rel="stylesheet" />
-<link href="css/jquery.dataTables.css" rel="stylesheet" />
 <link href="css/modifier.css" rel="stylesheet" />
 <link href="css/font-awesome.min.css" rel="stylesheet"/>
 <link href="css/admin/sb-admin-2.css" rel="stylesheet"/>
@@ -18,6 +17,6 @@
 <script src="js/jquery.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <script src="js/jquery.dataTables.min.js"></script>
-<script src="js/bootstrap-datetimepicker.js"></script>
+<script src="js/bootstrap-datetimepicker.min.js"></script>
 </head>
 <body style='padding-top: 100px;background-color: rgb(196, 197, 197);'>
