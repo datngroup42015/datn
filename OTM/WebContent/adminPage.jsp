@@ -33,7 +33,7 @@
 					<tr>
 						<td></td>
 						<td><input type="submit" name="btnEditAccount" value="Edit" /></td>
-						<td><input type="text" name="txtStatus" value="Activate" /></td>
+						<td><input type="text" name="txtStatus" value="Activate" disabled="disabled" /></td>
 					</tr>
 					<tr>
 						<td></td>
