@@ -10,19 +10,6 @@
 
 	<jsp:include page="createProjectModal.jsp" />
 </div>
-<script type="text/javascript">
-    $(function () {
-        $('#datetimepicker6').datetimepicker();
-        $('#datetimepicker7').datetimepicker();
-        $("#datetimepicker6").on("dp.change", function (e) {
-            $('#datetimepicker7').data("DateTimePicker").minDate(e.date);
-        });
-        $("#datetimepicker7").on("dp.change", function (e) {
-            $('#datetimepicker6').data("DateTimePicker").maxDate(e.date);
-        });
-    });
-</script>
-
 <div class="col-lg-3 col-md-6">
 	<div class="panel panel-green">
 		<div class="panel-heading">
